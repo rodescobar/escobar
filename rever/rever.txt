@@ -1,0 +1,3 @@
+1) Criar tabela genero e adicionar com depara para Filmes e Séries
+
+2) Criar tabela diretor
